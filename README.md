@@ -58,7 +58,7 @@ Inicialmente, Java fue el lenguaje de programación elegido por petición y requ
 Por otro lado, optamos por usar Visual Studio Code por su versatilidad en extensiones, modernidad y sencilles de uso. Dentro de Visual Studio Code, realizamos una configuración sencilla a traves de una extensión llamada Java Pack.
 Con esta, logramos ejecutar Java nativamente desde Visual Studio Code. ¡Algo nunca antes visto! 
 
-<p align="right">(<a href="#readme-top">regresar al inicio</a></p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
 
@@ -70,26 +70,13 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ### Prerequisitos
 
 1. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del JDK para lograr una configuración exitosa y evitar problemas a futuro.
-2. Debemos descargar la ultima versión del JDK, que actualmente es la 22.0.1 a traves del siguiente link https://www.oracle.com/co/java/technologies/downloads/#java22
-3. Debemos descargar el Framework de Apache Maven, en la versión 3.9.7, a traves del siguiente link https://maven.apache.org/download.cgi
+2. Debemos descargar la ultima versión del JDK, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22">JDK 22.0.1</a>
+3. Debemos descargar el Framework de Apache Maven, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi">Apache Maven 3.9.7</a>
 
 ### Instalación
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. Debemos ejecutar el .exe de Java
+  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
