@@ -5,12 +5,12 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de Contenido</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Hecho con</a></li>
       </ul>
     </li>
     <li>
