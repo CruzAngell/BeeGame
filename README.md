@@ -22,9 +22,9 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
     </li>
     <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributing">Contribuciones</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Contacto</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -54,15 +54,9 @@ Por supuesto, la siguiente documentación fue hecha en base a una versión Alpha
 
 En esta sección, se nombrará el lenguaje de programación usado, IDE, y Extensiones que usamos en el proyecto.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Java][Java.com]][Java-url]
+Inicialmente, Java fue el lenguaje de programación elegido por petición y requisito para desarrollar el proyecto por indicaciones del Profesor.
+Por otro lado, optamos por usar Visual Studio Code por su versatilidad en extensiones, modernidad y sencilles de uso. Dentro de Visual Studio Code, realizamos una configuración sencilla a traves de una extensión llamada Java Pack.
+Con esta, logramos ejecutar Java nativamente desde Visual Studio Code. ¡Algo nunca antes visto! 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
