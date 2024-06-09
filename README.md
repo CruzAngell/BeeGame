@@ -9,13 +9,13 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
   <summary>Tabla de Contenido</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre el Proyecto</a>
+      <a href="#Sobre-el-Proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#hecho-con">Hecho con</a></li>
+        <li><a href="#Hecho-con">Hecho con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#paso-a-paso">Paso a Paso</a>
+      <a href="#Paso a Paso">Paso a Paso</a>
       <ul>
         <li><a href="#prerequisitos">Prerequisitos</a></li>
         <li><a href="#instalación">Instalación</a></li>
