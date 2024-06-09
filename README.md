@@ -118,6 +118,12 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 1. Cuando estemos adentro del proyecto de Java, iremos al apartado de Pruebas, que se representa con un icono de un frasco de quimicos, tras entrar a ese apartado, presionaremos en el botón azul que dice <strong>Enable Java Test</strong>, despues, se nos habilitará el <strong>Framework</strong> a elegir para realizar las pruebas, en este caso, seleccionaremos <strong>JUnit</strong>. Tras seleccionarlo, debemos desplegar los aprtados de los Test a las pruebas y ejecutarlo, y automaticamente las pruebas iniciarán y arrojarán el resultado en la consola y en pantalla.
 El siguiente video, se puede usar de recurso audiovisual. <a href="https://www.youtube.com/watch?v=q35b9pjX_j8">Video Explicativo</a>
 
+El resultado que buscamos, es el siguiente
+
+<div align="center">
+  <img src="https://github.com/CruzAngell/BeeGame/blob/main/src/doc/img/Explicacion-Test.jpg" alt="Imagen Alusiva">
+</div>
+
 <p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
