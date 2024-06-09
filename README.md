@@ -43,8 +43,8 @@ Es un juego de responder preguntas acádemicas con varios niveles de dificultad.
 </div>
 
 Comentarios:
-* El videojuego fue desarrollado en colaboración con 8 participantes en total, cada uno desarrolló partes importantes para la correcta funcionalidad del videojuego.
-* Nuestra elección como IDE fue Visual Studio Code por su versatilidad, facilidad y poco consumo de recursos que usa este para su funcionamiento.
+* El videojuego fue desarrollado en colaboración con 8 participantes en total, cada uno desarrolló partes importantes para la correcta funcionalidad del videojuego. :sunglasses:
+* Nuestra elección como IDE fue Visual Studio Code por su versatilidad, facilidad y poco consumo de recursos que usa este para su funcionamiento. :stuck_out_tongue_winking_eye:
 * Nos encontramos varios inconvenientes al momento del desarrollo, pero nada que no hayamos podido resolver. :smile:
 
 Por supuesto, la siguiente documentación fue hecha en base a una versión Alpha del videojuego, pero con esto, el usuario final se dará una idea de como ejecutar correctamente el código en cualquier maquina.
