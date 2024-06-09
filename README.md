@@ -34,8 +34,9 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre el Proyecto
+
 <div align="center">
-![Imagen Alusiva](https://github.com/CruzAngell/BeeGame/blob/main/src/doc/img/BeeGame.jpg)
+  <img src="https://github.com/CruzAngell/BeeGame/blob/main/src/doc/img/BeeGame.jpg" alt="Imagen Alusiva">
 </div>
 
 BeeGame o Abejita Vuelve a Tu Panal es un videojuego interacto desarrollado en Java utilizando Visual Studio Code, junto con Maven y la extensión Java Pack For Java.
