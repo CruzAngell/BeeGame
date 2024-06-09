@@ -14,13 +14,13 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#getting-started">Paso a Paso</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#prerequisites">Prerequisitos</a></li>
+        <li><a href="#installation">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -39,22 +39,20 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
 BeeGame o Abejita Vuelve a Tu Panal es un videojuego interacto desarrollado en Java utilizando Visual Studio Code, junto con Maven y la extensión Java Pack For Java.
 Es un juego de responder preguntas acádemicas con varios niveles de dificultad.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Comentarios:
+* El videojuego fue desarrollado en colaboración con 8 participantes en total, cada uno desarrolló partes importantes para la correcta funcionalidad del videojuego.
+* Nuestra elección como IDE fue Visual Studio Code por su versatilidad, facilidad y poco consumo de recursos que usa este para su funcionamiento.
+* Nos encontramos varios inconvenientes al momento del desarrollo, pero nada que no hayamos podido resolver. :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Por supuesto, la siguiente documentación fue hecha en base a una versión Alpha del videojuego, pero con esto, el usuario final se dará una idea de como ejecutar correctamente el código en cualquier maquina.
 
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
 
-### Built With
+### Desarrollado con
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+En esta sección, se nombrará el lenguaje de programación usado, IDE, y Extensiones que usamos en el proyecto.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -64,6 +62,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Java][Java.com]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
