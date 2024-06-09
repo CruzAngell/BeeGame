@@ -15,7 +15,7 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
       </ul>
     </li>
     <li>
-      <a href="#Paso a Paso">Paso a Paso</a>
+      <a href="#Paso-a-Paso">Paso a Paso</a>
       <ul>
         <li><a href="#prerequisitos">Prerequisitos</a></li>
         <li><a href="#instalación">Instalación</a></li>
@@ -63,17 +63,18 @@ Con esta, logramos ejecutar Java nativamente desde Visual Studio Code. ¡Algo nu
 
 
 
-<!-- GETTING STARTED -->
+<!-- Comienzo -->
 ## Empecemos
 
 A continuación nombraremos el paso a paso para realizar la instalación y configuración del IDE y extensiones.
 
 ### Prerequisitos
 
-1. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del JDK para lograr una configuración exitosa y evitar problemas a futuro.
-2. Debemos descargar la ultima versión del <strong>JDK</strong>, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>.
-3. Debemos descargar el Framework de <strong>Apache Maven</strong>, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>.
-4. Debemos descargar el <strong>IDE Visual Studio Code</strong> en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.
+1. Clonar el repositorio locamente en nuestra PC.
+2. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del <strong>JDK</strong> para lograr una configuración exitosa y evitar problemas a futuro.
+3. Debemos descargar la ultima versión del <strong>JDK</strong>, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>.
+4. Debemos descargar el Framework de <strong>Apache Maven</strong>, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>.
+5. Debemos descargar el <strong>IDE Visual Studio Code</strong> en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.
 
 ### Instalación
 
@@ -90,7 +91,9 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ## Configuración
 
 1. Iremos a las variables de entorno en nuestro PC, una vez ahí, iremos a la casilla de Variables del Sistema y crearemos una nueva variable llamada <strong>JAVA_HOME</strong> y en el valor de la variable, pondremos la ruta de instalación de nuestro JDK seleccionando la carpeta llamada <strong>jdk-22</strong>.
-2. Ahora, dentro del mismo recuadro de Variables del Sistema, seleccionaremos Path y luego daremos en Editar, una vez adentro, crearemos dos nuevas variables añadiendo las rutas bin del JDK junto al <strong>Apache Maven</strong>. Una vez tengamos estas dos variables, las moveremos a los primeros lugares de la lista de variables, preferiblemente el <strong>JDK</strong> en primer lugar, y el <strong>Apache Maven</strong>, en segundo lugar.
+2. Ahora, dentro del mismo recuadro de Variables del Sistema, seleccionaremos Path y luego daremos en Editar, una vez adentro, crearemos dos nuevas variables añadiendo las rutas bin del <strong>JDK</strong> junto al <strong>Apache Maven</strong>. Una vez tengamos estas dos variables, las moveremos a los primeros lugares de la lista de variables, preferiblemente el <strong>JDK</strong> en primer lugar, y el <strong>Apache Maven</strong>, en segundo lugar.
+3. Despues, iremos a <strong>Visual Studio Code</strong>, al apartado de Extensiones, y buscaremos <strong>Extension Pack for Java</strong> para luego instalar la misma.
+4. Desde <strong>Visual Studio Code</strong>, a traves del nuevo Modulo de <strong>Java Projects</strong> o <strong>Maven</strong> abriremos la carpeta que clonamos con anterioridad, una vez la abramos, empezará a cargar el proyecto y la extensión de Java. Una vez haya cargado, debemos de dirigirnos a la siguiente ruta src/JuegoAbejasGUI.java y ejecutar el mismo, tras ejecutarlo, veremos la interfaz alpha de <strong>Abejita vuelve a tu Panal</strong>.
 
 <p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
