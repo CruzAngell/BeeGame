@@ -5,7 +5,7 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
 
 <div align="center" id="madewithlua">
   <img
-    src="https://astronvim.com/logo/astronvim.svg"
+    src="https://imgur.com/fszXV7f"
     width="110"
     ,
     height="100"
