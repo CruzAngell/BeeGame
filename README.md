@@ -32,11 +32,12 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el Proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]((https://imgur.com/yeuUeJA)))
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+BeeGame o Abejita Vuelve a Tu Panal es un videojuego interacto desarrollado en Java utilizando Visual Studio Code, junto con Maven y la extensión Java Pack For Java.
+Es un juego de responder preguntas acádemicas con varios niveles de dificultad.
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
