@@ -1,6 +1,7 @@
+<a name="readme-top"></a>
 # BeeGame
 Bee Game in Java using Visual Studio Code and Maven, Extension Java Pack.
-<a name="readme-top"></a>
+
 En la siguiente documentación, se explicará paso a paso como clonar este repositorio para ejecutar una versión Alpha de BeeGame.
 
 <!-- TABLE OF CONTENTS -->
@@ -70,15 +71,15 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ### Prerequisitos
 
 1. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del JDK para lograr una configuración exitosa y evitar problemas a futuro.
-2. Debemos descargar la ultima versión del JDK, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>
-3. Debemos descargar el Framework de Apache Maven, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>
-4. Debemos descargar el IDE Visual Studio Code en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+2. Debemos descargar la ultima versión del <strong>JDK</strong>, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>
+3. Debemos descargar el Framework de <strong>Apache Maven</strong>, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>
+4. Debemos descargar el <strong>IDE Visual Studio Code</strong> en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
 
 ### Instalación
 
-1. Ejecutaremos el .exe del JDK primeramente, luego de ello, debemos seguir las instrucciones del instalador y dejando la ruta de instalación de manera predeterminada.
-2. Vamos a descomprimir la carptea .zip del Apache Maven, y a continuación, copiaremos la carpeta extraida en la misma ruta donde se instaló el JDK, pero evitando entrar a la carpeta del JDK.
-3. Instalaremos el IDE Visual Studio Code como en el primer caso, dejaremos todo de manera predeterminada y al finalizar, nos pedirá si queremos añadirlo al Path, lo cual seleccionaremos que si, y luego, se nos abrirá automaticamente Visual Studio Code.
+1. Ejecutaremos el .exe del <strong>JDK</strong> primeramente, luego de ello, debemos seguir las instrucciones del instalador y dejando la ruta de instalación de manera predeterminada.
+2. Vamos a descomprimir la carptea .zip del Apache Maven, y a continuación, copiaremos la carpeta extraida en la misma ruta donde se instaló el <strong>JDK</strong>, pero evitando entrar a la carpeta del <strong>JDK</strong>.
+3. Instalaremos el <strong>IDE Visual Studio Code</strong> como en el primer caso, dejaremos todo de manera predeterminada y al finalizar, nos pedirá si queremos añadirlo al <strong>Path</strong>, lo cual seleccionaremos que si, y luego, se nos abrirá automaticamente <strong>Visual Studio Code</strong>.
   
 
 <p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
@@ -89,6 +90,7 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ## Configuración
 
 1. Iremos a las variables de entorno en nuestro PC, una vez ahí, iremos a la casilla de Variables del Sistema y crearemos una nueva variable llamada <strong>JAVA_HOME</strong> y en el valor de la variable, pondremos la ruta de instalación de nuestro JDK seleccionando la carpeta llamada <strong>jdk-22</strong>.
+2. Ahora, dentro del mismo recuadro de Variables del Sistema, seleccionaremos Path y luego daremos en Editar, una vez adentro, crearemos dos nuevas variables añadiendo las rutas bin del JDK junto al <strong>Apache Maven</strong>. Una vez tengamos estas dos variables, las moveremos a los primeros lugares de la lista de variables, preferiblemente el <strong>JDK</strong> en primer lugar, y el <strong>Apache Maven</strong>, en segundo lugar.
 
 <p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
