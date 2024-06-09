@@ -11,11 +11,11 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
     <li>
       <a href="#about-the-project">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#hecho con">Hecho con</a></li>
+        <li><a href="#hecho-con">Hecho con</a></li>
       </ul>
     </li>
     <li>
-      <a href="#paso a paso">Paso a Paso</a>
+      <a href="#paso-a-paso">Paso a Paso</a>
       <ul>
         <li><a href="#prerequisitos">Prerequisitos</a></li>
         <li><a href="#instalación">Instalación</a></li>
