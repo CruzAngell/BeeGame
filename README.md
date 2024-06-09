@@ -1,6 +1,6 @@
 # BeeGame
 Bee Game in Java using Visual Studio Code and Maven, Extension Java Pack.
-
+<a name="readme-top"></a>
 En la siguiente documentación, se explicará paso a paso como clonar este repositorio para ejecutar una versión Alpha de BeeGame.
 
 <!-- TABLE OF CONTENTS -->
@@ -20,7 +20,7 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
         <li><a href="#installation">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Uso</a></li>
+    <li><a href="#configuration">COnfiguración</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contribuciones</a></li>
     <li><a href="#license">License</a></li>
@@ -72,24 +72,25 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 1. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del JDK para lograr una configuración exitosa y evitar problemas a futuro.
 2. Debemos descargar la ultima versión del JDK, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>
 3. Debemos descargar el Framework de Apache Maven, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>
+4. Debemos descargar el IDE Visual Studio Code en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
 
 ### Instalación
 
-1. Debemos ejecutar el .exe de Java
+1. Ejecutaremos el .exe del JDK primeramente, luego de ello, debemos seguir las instrucciones del instalador y dejando la ruta de instalación de manera predeterminada.
+2. Vamos a descomprimir la carptea .zip del Apache Maven, y a continuación, copiaremos la carpeta extraida en la misma ruta donde se instaló el JDK, pero evitando entrar a la carpeta del JDK.
+3. Instalaremos el IDE Visual Studio Code como en el primer caso, dejaremos todo de manera predeterminada y al finalizar, nos pedirá si queremos añadirlo al Path, lo cual seleccionaremos que si, y luego, se nos abrirá automaticamente Visual Studio Code.
   
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- Espacio para explicar la configuración de los recursos de desarrollo -->
+## Configuración
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+1. Iremos a las variables de entorno en nuestro PC, una vez ahí, iremos a la casilla de Variables del Sistema y crearemos una nueva variable llamada <strong>JAVA_HOME</strong> y en el valor de la variable, pondremos la ruta de instalación de nuestro JDK seleccionando la carpeta llamada <strong>jdk-22</strong>.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
 
