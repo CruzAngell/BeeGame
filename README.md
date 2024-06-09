@@ -5,7 +5,7 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
 
 <div align="center" id="madewithlua">
   <img
-    src="https://imgur.com/fszXV7f"
+    src="[img]https://i.imgur.com/fszXV7f.jpeg[/img]"
     width="110"
     ,
     height="100"
