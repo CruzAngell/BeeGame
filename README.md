@@ -70,8 +70,8 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ### Prerequisitos
 
 1. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del JDK para lograr una configuración exitosa y evitar problemas a futuro.
-2. Debemos descargar la ultima versión del JDK, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22">JDK 22.0.1</a>
-3. Debemos descargar el Framework de Apache Maven, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi">Apache Maven 3.9.7</a>
+2. Debemos descargar la ultima versión del JDK, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>
+3. Debemos descargar el Framework de Apache Maven, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>
 
 ### Instalación
 
