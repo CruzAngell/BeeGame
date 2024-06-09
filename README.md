@@ -93,7 +93,13 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ## Configuración
 
 1. Iremos a las variables de entorno en nuestro PC, una vez ahí, iremos a la casilla de Variables del Sistema y crearemos una nueva variable llamada <strong>JAVA_HOME</strong> y en el valor de la variable, pondremos la ruta de instalación de nuestro JDK seleccionando la carpeta llamada <strong>jdk-22</strong>.
+<div align="center">
+  <img src="https://github.com/CruzAngell/BeeGame/blob/main/src/doc/img/Explicacion-JDK.jpg" alt="Imagen Alusiva">
+</div>
 2. Ahora, dentro del mismo recuadro de Variables del Sistema, seleccionaremos Path y luego daremos en Editar, una vez adentro, crearemos dos nuevas variables añadiendo las rutas bin del <strong>JDK</strong> junto al <strong>Apache Maven</strong>. Una vez tengamos estas dos variables, las moveremos a los primeros lugares de la lista de variables, preferiblemente el <strong>JDK</strong> en primer lugar, y el <strong>Apache Maven</strong>, en segundo lugar.
+<div align="center">
+  <img src="https://github.com/CruzAngell/BeeGame/blob/main/src/doc/img/Explicacion-Path.jpg" alt="Imagen Alusiva">
+</div>
 3. Despues, iremos a <strong>Visual Studio Code</strong>, al apartado de Extensiones, y buscaremos <strong>Extension Pack for Java</strong> para luego instalar la misma.
 4. Desde <strong>Visual Studio Code</strong>, a traves del nuevo Modulo de <strong>Java Projects</strong> o <strong>Maven</strong> abriremos la carpeta que clonamos con anterioridad, una vez la abramos, empezará a cargar el proyecto y la extensión de Java. Una vez haya cargado, debemos de dirigirnos a la siguiente ruta src/JuegoAbejasGUI.java y ejecutar el mismo, tras ejecutarlo, veremos la interfaz alpha de <strong>Abejita vuelve a tu Panal</strong>.
 
