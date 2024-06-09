@@ -50,7 +50,7 @@ Por supuesto, la siguiente documentación fue hecha en base a una versión Alpha
 
 
 
-### Desarrollado con
+### Desarrollo
 
 En esta sección, se nombrará el lenguaje de programación usado, IDE, y Extensiones que usamos en el proyecto.
 
@@ -58,7 +58,7 @@ Inicialmente, Java fue el lenguaje de programación elegido por petición y requ
 Por otro lado, optamos por usar Visual Studio Code por su versatilidad en extensiones, modernidad y sencilles de uso. Dentro de Visual Studio Code, realizamos una configuración sencilla a traves de una extensión llamada Java Pack.
 Con esta, logramos ejecutar Java nativamente desde Visual Studio Code. ¡Algo nunca antes visto! 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
 
