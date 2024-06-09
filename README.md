@@ -21,7 +21,7 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
         <li><a href="#installation">Instalación</a></li>
       </ul>
     </li>
-    <li><a href="#configuration">COnfiguración</a></li>
+    <li><a href="#configuración">Configuración</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contribuciones</a></li>
     <li><a href="#license">License</a></li>
@@ -71,9 +71,9 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 ### Prerequisitos
 
 1. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del JDK para lograr una configuración exitosa y evitar problemas a futuro.
-2. Debemos descargar la ultima versión del <strong>JDK</strong>, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>
-3. Debemos descargar el Framework de <strong>Apache Maven</strong>, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>
-4. Debemos descargar el <strong>IDE Visual Studio Code</strong> en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+2. Debemos descargar la ultima versión del <strong>JDK</strong>, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>.
+3. Debemos descargar el Framework de <strong>Apache Maven</strong>, en la versión 3.9.7, a traves del siguiente link <a href="https://maven.apache.org/download.cgi" target="_blank">Apache Maven 3.9.7</a>.
+4. Debemos descargar el <strong>IDE Visual Studio Code</strong> en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.
 
 ### Instalación
 
