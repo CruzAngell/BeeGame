@@ -63,9 +63,10 @@ Con esta, logramos ejecutar Java nativamente desde Visual Studio Code. ¡Algo nu
 
 
 
-<!-- Comienzo -->
-## Empecemos
+<!-- Comienzo de la explicación general -->
 <a name="Paso-a-Paso"></a>
+## Empecemos
+
 A continuación nombraremos el paso a paso para realizar la instalación y configuración del IDE y extensiones.
 
 ### Prerequisitos
