@@ -11,7 +11,7 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
     <li>
       <a href="#Sobre-el-Proyecto">Sobre el Proyecto</a>
       <ul>
-        <li><a href="#Hecho-con">Hecho con</a></li>
+        <li><a href="#Desarrollo">Desarrollo</a></li>
       </ul>
     </li>
     <li>
@@ -23,16 +23,14 @@ En la siguiente documentación, se explicará paso a paso como clonar este repos
     </li>
     <li><a href="#configuración">Configuración</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contribuciones</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contacto</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#conclusion">Conclusión</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
+<a name="Sobre-el-Proyecto"></a>
 ## Sobre el Proyecto
 
 BeeGame o Abejita Vuelve a Tu Panal es un videojuego interacto desarrollado en Java utilizando Visual Studio Code, junto con Maven y la extensión Java Pack For Java.
@@ -54,7 +52,7 @@ Por supuesto, la siguiente documentación fue hecha en base a una versión Alpha
 
 
 ### Desarrollo
-
+<a name="Desarrollo"></a>
 En esta sección, se nombrará el lenguaje de programación usado, IDE, y Extensiones que usamos en el proyecto.
 
 Inicialmente, Java fue el lenguaje de programación elegido por petición y requisito para desarrollar el proyecto por indicaciones del Profesor.
@@ -67,11 +65,11 @@ Con esta, logramos ejecutar Java nativamente desde Visual Studio Code. ¡Algo nu
 
 <!-- Comienzo -->
 ## Empecemos
-
+<a name="Paso-a-Paso"></a>
 A continuación nombraremos el paso a paso para realizar la instalación y configuración del IDE y extensiones.
 
 ### Prerequisitos
-
+<a name="prerequisitos"></a>
 1. Clonar el repositorio locamente en nuestra PC.
 2. Debemos tener nuestro sistema operativo limpio de alguna versión anterior del <strong>JDK</strong> para lograr una configuración exitosa y evitar problemas a futuro.
 3. Debemos descargar la ultima versión del <strong>JDK</strong>, que actualmente es la 22.0.1 a traves del siguiente link <a href="https://www.oracle.com/co/java/technologies/downloads/#java22" target="-blank">JDK 22.0.1</a>.
@@ -79,7 +77,7 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 5. Debemos descargar el <strong>IDE Visual Studio Code</strong> en su ultima versión, a traves del siguiente link <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.
 
 ### Instalación
-
+<a name="instalación"></a>
 1. Ejecutaremos el .exe del <strong>JDK</strong> primeramente, luego de ello, debemos seguir las instrucciones del instalador y dejando la ruta de instalación de manera predeterminada.
 2. Vamos a descomprimir la carptea .zip del Apache Maven, y a continuación, copiaremos la carpeta extraida en la misma ruta donde se instaló el <strong>JDK</strong>, pero evitando entrar a la carpeta del <strong>JDK</strong>.
 3. Instalaremos el <strong>IDE Visual Studio Code</strong> como en el primer caso, dejaremos todo de manera predeterminada y al finalizar, nos pedirá si queremos añadirlo al <strong>Path</strong>, lo cual seleccionaremos que si, y luego, se nos abrirá automaticamente <strong>Visual Studio Code</strong>.
@@ -91,7 +89,7 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 
 <!-- Espacio para explicar la configuración de los recursos de desarrollo -->
 ## Configuración
-
+<a name="readme-top"></a>
 1. Iremos a las variables de entorno en nuestro PC, una vez ahí, iremos a la casilla de Variables del Sistema y crearemos una nueva variable llamada <strong>JAVA_HOME</strong> y en el valor de la variable, pondremos la ruta de instalación de nuestro JDK seleccionando la carpeta llamada <strong>jdk-22</strong>.
 
 <div align="center">
@@ -113,7 +111,7 @@ A continuación nombraremos el paso a paso para realizar la instalación y confi
 
 <!-- Explicación de las pruebas Unitarias y Documentación HTML -->
 ## Pruebas
-
+<a name="readme-top"></a>
 * En este caso, desarrollamos las pruebas unitarias con <strong>JUnit</strong>. A continuación, se explicará a detalle como hacerlo apoyado con un video.
 1. Cuando estemos adentro del proyecto de Java, iremos al apartado de Pruebas, que se representa con un icono de un frasco de quimicos, tras entrar a ese apartado, presionaremos en el botón azul que dice <strong>Enable Java Test</strong>, despues, se nos habilitará el <strong>Framework</strong> a elegir para realizar las pruebas, en este caso, seleccionaremos <strong>JUnit</strong>. Tras seleccionarlo, debemos desplegar los aprtados de los Test a las pruebas y ejecutarlo, y automaticamente las pruebas iniciarán y arrojarán el resultado en la consola y en pantalla.
 El siguiente video, se puede usar de recurso audiovisual. <a href="https://www.youtube.com/watch?v=q35b9pjX_j8">Video Explicativo</a>
@@ -132,7 +130,7 @@ Con lo anterior, tenemos la explicación de como realizar las pruebas unitarias,
 
 <!-- Espacio para explicar como se realiza la documentación con Javadoc -->
 ## Documentación
-
+<a name="readme-top"></a>
 A continuación, se explicará como generar la documentación en formato HTML del código del juego.
 
 1. Debemos asegurarnos de que cada clase y método tenga comentarios Javadoc adecuados, básicamente, comentar el código, para así mostrar lo que hace cada parte del mismo.
@@ -143,15 +141,13 @@ A continuación, se explicará como generar la documentación en formato HTML de
   javadoc -d doc JuegoAbejasGUI.java
   ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+## Conclusión
+<a name="conclusion"></a>
+Llegamos al final de la documentación, y con los pasos explicados anteriormente, podrás ejecutar el videojuego en cualquier PC sin ninguna complicación. Recuerda que lo que presentamos anteriormente, fue desde una instalación totalmente limpia de cada framekork e IDE usado.
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">regresar al inicio</a>)</p>
